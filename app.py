@@ -1,0 +1,1 @@
+print("asign 1 itec")
